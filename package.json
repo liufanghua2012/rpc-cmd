@@ -1,0 +1,13 @@
+{
+  "name": "rpcCmd",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+	"hprose":"2.0.45",
+	"iconv-lite":"0.4.18",
+	"bufferhelper":"*"
+  }
+}
